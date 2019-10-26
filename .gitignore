@@ -1,0 +1,23 @@
+##### Ignore Everything #####
+/*
+/*/
+
+##### Ignore Microsoft Office Temporary Files #####
+~$*.doc*
+Backup of *.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
+
+##### Git #####
+!.gitignore
+!README.md
+
+##### unignore #####
+!/template/
+/template/*
+!/template/*.brd
+!/template/*.dsn
+
+# NEED TO UPDATE THIS TO SUPPORT ALL CHILDREN DIRECTORIES
