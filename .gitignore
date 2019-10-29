@@ -20,4 +20,12 @@ Backup of *.doc*
 !/template/*.brd
 !/template/*.dsn
 
+##### AHC-19-001_Relay_PCB #####
+!/AHC-19-001_Relay_PCB/
+/AHC-19-001_Relay_PCB/*
+!/AHC-19-001_Relay_PCB/*.brd
+!/AHC-19-001_Relay_PCB/*.dsn
+!/AHC-19-001_Relay_PCB/dimensions.png
+!/AHC-19-001_Relay_PCB/Header_Datasheet_VH_JST.pdf
+
 # NEED TO UPDATE THIS TO SUPPORT ALL CHILDREN DIRECTORIES
