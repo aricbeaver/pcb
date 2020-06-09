@@ -20,4 +20,22 @@ Backup of *.doc*
 !/template/*.brd
 !/template/*.dsn
 
+##### unignore #####
+!/template/
+/template/*
+!/template/*.brd
+!/template/*.dsn
+
+##### unignore #####
+!/AHC-19-001_Relay_PCB/
+/AHC-19-001_Relay_PCB/*
+!/AHC-19-001_Relay_PCB/*.brd
+!/AHC-19-001_Relay_PCB/*.dsn
+
+##### unignore #####
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/
+/AHC-20-001_DP_Switch_Barrier_Block_Interface/*
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/*.brd
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/*.dsn
+
 # NEED TO UPDATE THIS TO SUPPORT ALL CHILDREN DIRECTORIES
