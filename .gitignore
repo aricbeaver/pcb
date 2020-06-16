@@ -26,13 +26,18 @@ Backup of *.doc*
 !/template/*.brd
 !/template/*.dsn
 
-##### unignore #####
+##### AHC-19-001_Relay_PCB #####
 !/AHC-19-001_Relay_PCB/
 /AHC-19-001_Relay_PCB/*
 !/AHC-19-001_Relay_PCB/*.brd
 !/AHC-19-001_Relay_PCB/*.dsn
+!/AHC-19-001_Relay_PCB/customer_docs
+!/AHC-19-001_Relay_PCB/*bom.xlsx
+!/AHC-19-001_Relay_PCB/*fab.zip
+!/AHC-19-001_Relay_PCB/*gerbers.pdf
+!/AHC-19-001_Relay_PCB/*schematic.pdf
 
-##### unignore #####
+##### AHC-20-001_DP_Switch_Barrier_Block_Interface #####
 !/AHC-20-001_DP_Switch_Barrier_Block_Interface/
 /AHC-20-001_DP_Switch_Barrier_Block_Interface/*
 !/AHC-20-001_DP_Switch_Barrier_Block_Interface/*.brd
