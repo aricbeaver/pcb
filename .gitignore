@@ -37,5 +37,10 @@ Backup of *.doc*
 /AHC-20-001_DP_Switch_Barrier_Block_Interface/*
 !/AHC-20-001_DP_Switch_Barrier_Block_Interface/*.brd
 !/AHC-20-001_DP_Switch_Barrier_Block_Interface/*.dsn
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/customer_docs
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/*bom.xlsx
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/*fab.zip
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/*gerbers.pdf
+!/AHC-20-001_DP_Switch_Barrier_Block_Interface/*schematic.pdf
 
 # NEED TO UPDATE THIS TO SUPPORT ALL CHILDREN DIRECTORIES
