@@ -48,4 +48,24 @@ Backup of *.doc*
 !/AHC-20-001_DP_Switch_Barrier_Block_Interface/*gerbers.pdf
 !/AHC-20-001_DP_Switch_Barrier_Block_Interface/*schematic.pdf
 
+##### AHC-20-002_Homekit_Wall_Switch #####
+!/AHC-20-002_Homekit_Wall_Switch/
+/AHC-20-002_Homekit_Wall_Switch/*
+!/AHC-20-002_Homekit_Wall_Switch/*.brd
+!/AHC-20-002_Homekit_Wall_Switch/*.dsn
+!/AHC-20-002_Homekit_Wall_Switch/*bom.xlsx
+!/AHC-20-002_Homekit_Wall_Switch/*fab.zip
+!/AHC-20-002_Homekit_Wall_Switch/*gerbers.pdf
+!/AHC-20-002_Homekit_Wall_Switch/*schematic.pdf
+
+##### AHC-20-003_Homekit_Light_Fan_Switch #####
+!/AHC-20-003_Homekit_Light_Fan_Switch/
+/AHC-20-003_Homekit_Light_Fan_Switch/*
+!/AHC-20-003_Homekit_Light_Fan_Switch/*.brd
+!/AHC-20-003_Homekit_Light_Fan_Switch/*.dsn
+!/AHC-20-003_Homekit_Light_Fan_Switch/*bom.xlsx
+!/AHC-20-003_Homekit_Light_Fan_Switch/*fab.zip
+!/AHC-20-003_Homekit_Light_Fan_Switch/*gerbers.pdf
+!/AHC-20-003_Homekit_Light_Fan_Switch/*schematic.pdf
+
 # NEED TO UPDATE THIS TO SUPPORT ALL CHILDREN DIRECTORIES
